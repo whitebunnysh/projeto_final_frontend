@@ -37,7 +37,7 @@ a:hover{
 }
 .terceira_div{
     height: 100%;
-    background-image: url('/projeto_2/imgs/foto_cavernas.jpg');
+    background-image: url('/projeto_final_frontend/imgs/foto_cavernas.jpg');
     background-repeat: no-repeat;
     background-position: absolute;
     background-size: cover; 
